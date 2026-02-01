@@ -52834,8 +52834,7 @@ export default {
       "/nea/sjzz/ghs": {
         "path": "/nea/sjzz/ghs",
         "categories": [
-          "government",
-          "popular"
+          "government"
         ],
         "example": "/gov/nea/sjzz/ghs",
         "parameters": {},
