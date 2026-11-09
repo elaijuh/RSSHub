@@ -20422,7 +20422,8 @@ export default {
       "/weekly": {
         "path": "/weekly",
         "categories": [
-          "traditional-media"
+          "traditional-media",
+          "popular"
         ],
         "example": "/caixin/weekly",
         "radar": [
